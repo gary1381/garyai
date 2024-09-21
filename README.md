@@ -18,7 +18,7 @@ Table of contents
 
 ## My Projects
 
- * [Chatbot based on Streamlit](https://github.com/gary1381/chatbot_gui) A chatbot built based on LLAMA 2 and Streamlit.  
+ * [Chatbot based on Streamlit](https://github.com/gary1381/chatbot_gui) A chatbot built with LLAMA 2 and Streamlit.  
  * [Text summarizer](https://github.com/gary1381/Text_summarizer) A text summarizer built with Google Pegasus model.
  
 ## My External Links
